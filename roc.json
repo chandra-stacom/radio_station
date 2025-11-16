@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "radio_stations": [
+    {
+      "youtube_video_id": "jfKfPfyJRdk","title": "lofi hip hop radio - beats to relax/study to",
+      "channel": {
+        "name": "Lofi Girl",
+        "avatarUrl": "https://yt3.googleusercontent.com/ytc/AIdro_k3-4I-V_6_e2VI9Wf3S9J1j7O-Z2Q9m_3_aA=s176-c-k-c0x00ffffff-no-rj",
+        "socialLinks": {
+          "youtube": "https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow"
+        }
+      },
+      "category": "Lofi",
+      "tags": ["lofi", "hip hop", "relax", "study"]
+    },
+    {
+      "youtube_video_id": "rUxyKA_-grg",
+      "title": "coffee shop radio // 24/7 lofi hip-hop beats",
+      "channel": {
+        "name": "STEEZYASFUCK",
+        "avatarUrl": "https://yt3.googleusercontent.com/ytc/AIdro_k2Hn31y_n_V9tLqQpYIOhECa2K-V-I3i-D3Q=s176-c-k-c0x00ffffff-no-rj",
+        "socialLinks": {
+          "youtube": "https://www.youtube.com/channel/UCsIg9uI33ic-AQApglYI2KA"
+        }
+      },
+      "category": "Lofi",
+      "tags": ["lofi", "hip hop", "coffee shop", "beats"]
+    }
+  ]
+}
