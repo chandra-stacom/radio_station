@@ -1,15 +1,43 @@
+
+      },
+      "category": "Music",
+      "tags": [
+        "streaming",
+        "live"
+      ]
+    },
     {
-      "stream_url": "https://s5.alhastream.com:8220/radio",
-      "title": "Radio Favorit Baru Saya",
+      "id": "https://str.radiostream.co.id/radionet",
+      "title": "RadioNet",
       "author": {
-        "name": "Utari FM",
-        "avatar_url": "https://example.com/logo.png",
+        "name": "RadioStream Indonesia",
+        "avatar_url": "",
         "social_links": {
           "youtube": ""
         }
       },
-      "category": "Berita",
-      "tags": ["lokal", "berita", "indonesia"]
+      "category": "Various",
+      "tags": [
+        "indonesia",
+        "various"
+      ]
+    },
+    {
+      "id": "https://dengerin.pramborsfm.com/stream/prambors_aac",
+      "title": "Prambors FM",
+      "author": {
+        "name": "Prambors",
+        "avatar_url": "",
+        "social_links": {
+          "youtube": ""
+        }
+      },
+      "category": "Pop",
+      "tags": [
+        "pop",
+        "indonesia",
+        "hits"
+      ]
     }
   ]
 }
