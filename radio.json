@@ -2,10 +2,10 @@
   "version": 1,
   "data": [
     {
-      "id": "https://s5.alhastream.com:8220/radio",
-      "title": "Utari Radio Cilacap",
+      "stream_url": "https://s5.alhastream.com:8220/radio",
+      "title": "Radio Streaming Anda",
       "author": {
-        "name": "Utari FM",
+        "name": "Nama Stasiun Anda",
         "avatar_url": "",
         "social_links": {
           "youtube": ""
@@ -13,12 +13,12 @@
       },
       "category": "Music",
       "tags": [
-        "streaming",
-        "live"
+        "live",
+        "streaming"
       ]
     },
     {
-      "id": "https://str.radiostream.co.id/radionet",
+      "stream_url": "https://str.radiostream.co.id/radionet",
       "title": "RadioNet",
       "author": {
         "name": "RadioStream Indonesia",
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "id": "https://dengerin.pramborsfm.com/stream/prambors_aac",
+      "stream_url": "https://dengerin.pramborsfm.com/stream/prambors_aac",
       "title": "Prambors FM",
       "author": {
         "name": "Prambors",
