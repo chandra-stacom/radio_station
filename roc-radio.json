@@ -1,0 +1,15 @@
+    {
+      "stream_url": "https://s5.alhastream.com:8220/radio",
+      "title": "Radio Favorit Baru Saya",
+      "author": {
+        "name": "Utari FM",
+        "avatar_url": "https://example.com/logo.png",
+        "social_links": {
+          "youtube": ""
+        }
+      },
+      "category": "Berita",
+      "tags": ["lokal", "berita", "indonesia"]
+    }
+  ]
+}
