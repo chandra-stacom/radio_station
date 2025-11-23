@@ -1,4 +1,15 @@
-
+{
+  "version": 1,
+  "data": [
+    {
+      "id": "https://s5.alhastream.com:8220/radio",
+      "title": "Utari Radio Cilacap",
+      "author": {
+        "name": "Utari FM",
+        "avatar_url": "",
+        "social_links": {
+          "youtube": ""
+        }
       },
       "category": "Music",
       "tags": [
